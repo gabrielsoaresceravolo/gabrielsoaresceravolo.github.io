@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<polyline style="fill:#D8D8DA;" points="97.524,512 512,512 512,292.571 374.59,292.571 "/>
+<polyline style="fill:#EDEDED;" points="187.296,479.867 471.753,195.407 316.594,40.248 219.429,137.413 "/>
+<path style="fill:#F8F8F9;" d="M0,0v402.286C0,462.88,49.122,512,109.714,512s109.714-49.12,109.714-109.714V0H0z"/>
+<rect x="73.143" y="73.143" style="fill:#BEFCFD;" width="73.143" height="73.143"/>
+<rect x="73.143" y="219.429" style="fill:#B4D8F1;" width="73.143" height="73.143"/>
+<rect x="365.714" y="365.714" style="fill:#E07188;" width="73.143" height="73.143"/>
+<polyline style="fill:#EBAFD1;" points="292.571,374.59 292.571,438.857 227.962,438.857 "/>
+<circle style="fill:#88888F;" cx="109.714" cy="402.286" r="36.571"/>
+<rect x="280.028" y="158.833" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 402.2967 557.4439)" style="fill:#95D5A7;" width="73.142" height="73.142"/>
+<polyline style="fill:#F8E99B;" points="219.966,253.94 264.873,298.847 219.429,344.293 "/>
+</svg>
